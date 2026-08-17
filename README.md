@@ -30,5 +30,5 @@ Computer Science student passionate about the intersection of **Artificial Intel
 ### 📬 Connect with Me
 
 - **GitHub:** [@AdamBourbahh](https://github.com/AdamBourbahh)
-- **LinkedIn:** [linkedin.com/in/adambourbahh](https://linkedin.com) *(update with your link)*
-- **Email:** `contact@example.com` *(update with your email)*
+- **LinkedIn:** [linkedin.com/in/adambourbahh]([https://linkedin.com](https://www.linkedin.com/in/adam-bourbahh-romero-2b7134376/))
+- **Email:** `adam.bourbahh.romero@gmail.com`
