@@ -2,7 +2,7 @@ Computer Science student passionate about the intersection of **Artificial Intel
 
 ---
 
-### 🧠 Focus & Interests
+###  Focus & Interests
 
 - **Core Area:** Exploring machine learning systems, representation engineering, and mechanistic interpretability in modern architectures.
 - **Foundations:** Applying discrete math, linear algebra, and probability theory to optimize algorithms and data structures.
@@ -10,7 +10,7 @@ Computer Science student passionate about the intersection of **Artificial Intel
 
 ---
 
-### 🛠️ Technical Toolkit
+###  Technical Toolkit
 
 - **Languages:** C++, Python, SQL
 - **Frameworks & Libraries:** PyTorch, Hugging Face, NumPy, Pandas
@@ -18,15 +18,15 @@ Computer Science student passionate about the intersection of **Artificial Intel
 
 ---
 
-### 📌 Current Focus & Work in Progress
+###  Current Focus & Work in Progress
 
 - Implementing and testing custom algorithmic solvers and optimization techniques in **C++**.
 - Experimenting with internal representations and activation steering in transformer models using **PyTorch**.
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 - **GitHub:** [@AdamBourbahh](https://github.com/AdamBourbahh)
-- **LinkedIn:** [https://www.linkedin.com/in/adam-bourbahh-romero-2b7134376/](https://linkedin.com)
-- **Email:** `adam.bourbahh.romero@gmail.com`
+- **LinkedIn:** [Adam Bourbahh Romero](https://www.linkedin.com/in/adam-bourbahh-romero-2b7134376/)
+- **Email:** [adam.bourbahh.romero@gmail.com](mailto:adam.bourbahh.romero@gmail.com)
