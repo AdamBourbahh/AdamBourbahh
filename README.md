@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Adam Bourbahh 👋
 
-<!--
-**AdamBourbahh/AdamBourbahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about the intersection of **Artificial Intelligence, Algorithmic Problem Solving, and Applied Mathematics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Focus & Interests
+
+- **Core Area:** Exploring machine learning systems, representation engineering, and mechanistic interpretability in modern architectures.
+- **Foundations:** Applying discrete math, linear algebra, and probability theory to optimize algorithms and data structures.
+- **Current Direction:** Building end-to-end technical projects combining rigorous theory with scalable code implementations.
+
+---
+
+### 🛠️ Technical Toolkit
+
+- **Languages:** C++, Python, SQL
+- **Frameworks & Libraries:** PyTorch, Hugging Face, NumPy, Pandas
+- **Tools & Environments:** Linux, Git, Make/CMake, VS Code
+
+---
+
+### 📌 Current Focus & Work in Progress
+
+- Implementing and testing custom algorithmic solvers and optimization techniques in **C++**.
+- Experimenting with internal representations and activation steering in transformer models using **PyTorch**.
+
+---
+
+### 📬 Connect with Me
+
+- **GitHub:** [@AdamBourbahh](https://github.com/AdamBourbahh)
+- **LinkedIn:** [linkedin.com/in/adambourbahh](https://linkedin.com) *(update with your link)*
+- **Email:** `contact@example.com` *(update with your email)*
