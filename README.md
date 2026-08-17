@@ -1,5 +1,3 @@
-# Hi, I'm Adam Bourbahh 👋
-
 Computer Science student passionate about the intersection of **Artificial Intelligence, Algorithmic Problem Solving, and Applied Mathematics**.
 
 ---
